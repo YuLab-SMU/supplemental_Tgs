@@ -8,5 +8,7 @@ mummer: use dnadiff to compare differences between two genomes and visualize wit
 
 trf: detect repeats in genome assembly
 
+minimap2: alignment between two genomes
+
 r: visualization
 
