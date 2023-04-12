@@ -10,5 +10,7 @@ trf: detect repeats in genome assembly
 
 minimap2: alignment between two genomes
 
+circos: circos figure for genome comparison with numer result
+
 r: visualization
 
